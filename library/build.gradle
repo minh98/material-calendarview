@@ -24,8 +24,8 @@ android {
   }
 }
 
-group = "com.github.prolificinteractive"
-version = android.defaultConfig.versionName
+group = "com.github.eagleteam"
+version = "1.0"
 archivesBaseName = 'material-calendarview'
 
 dependencies {
